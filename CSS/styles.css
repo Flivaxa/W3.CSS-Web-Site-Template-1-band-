@@ -321,11 +321,8 @@ section.band .holder .pictures > div img {
     }
 }
 .tour .holder .cities .city {
-    background-color: var(--var(--white-color, #fff)-colorr, #fff);
+    background-color: var(--white-color, #fff);
     margin-bottom: 20px;
-}
-.tour .holder .cities .city .pic {
-    
 }
 .tour .holder .cities .city .pic img {
     width: 100%;
@@ -343,7 +340,7 @@ section.band .holder .pictures > div img {
 }
 .tour .holder .cities .city .info a {
     background: var(--main-color, #000);
-    color: var(--var(--white-color, #fff)-colorr, #fff);
+    color: var(--white-color, #fff);
     font-size: 0.9rem;
     font-weight: 500;
     padding: 8px 15px;
@@ -404,7 +401,7 @@ section.band .holder .pictures > div img {
 .contact .contact-info form input:last-child {
     border: none;
     background: var(--main-color, #000);
-    color: var(--var(--white-color, #fff)-colorr, #fff);
+    color: var(--white-color, #fff);
     padding: 10px 15px;
     font-weight: 500;
     font-size: 1rem;
