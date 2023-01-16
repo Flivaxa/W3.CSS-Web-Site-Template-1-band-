@@ -405,6 +405,7 @@ section.band .holder .pictures > div img {
     padding: 10px 15px;
     font-weight: 500;
     font-size: 1rem;
+    cursor: pointer;
 }
 /* End Contact section */
 /* Start Background */
